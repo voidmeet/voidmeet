@@ -3,14 +3,14 @@
 <h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | Kubernetes | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+%26+Automation+Fanatic;Kubernetes+%26+Docker+Wizard;Infrastructure+as+Code+Enthusiast;Always+Automating+Everything" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=650&lines=DevOps+Engineer;Cloud+%26+Automation+Fanatic;Kubernetes+%26+Docker+Wizard;Infrastructure+as+Code+Enthusiast;Automate+Everything+%7C+Scale+Everywhere" />
 </p>
 
 ---
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="800" alt="DevOps Animation"/>
+  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="800" alt="DevOps Pipeline Animation"/>
 </p>
 
 ---
@@ -36,7 +36,8 @@
 ### ⚙️ DevOps in Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" alt="Coding Fun"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Server Room"/>
 </p>
 
 <p align="center">
@@ -54,10 +55,10 @@
 
 ---
 
-### 🚀 DevOps Cycle
+### 🚀 DevOps Cycle (The Infinity Loop)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" alt="DevOps Loop"/>
+  <img src="https://media.giphy.com/media/f9XgHHnPnDjOF1hWpl/giphy.gif" width="700" alt="DevOps Infinity Loop"/>
 </p>
 
 ---
@@ -71,8 +72,9 @@
 
 ---
 
+<!-- Fun Outro -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="400" alt="Funny DevOps Coffee"/>
 </p>
 
 <h3 align="center">✨ "Automate everything, scale everywhere!" ✨</h3>
