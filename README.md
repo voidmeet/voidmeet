@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voidmeet&show_icons=true&theme=tokyonight" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=voidmeet&show_icons=true&theme=tokyonight" height="165"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmeet&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
