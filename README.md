@@ -36,7 +36,7 @@
 ### ⚙️ DevOps in Action  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="450" alt="Coding Fun"/>
+  <img src="[https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczhhM3d4Z3kyeGlhbjBlc3dsdTJjcWxnMTIwdTJnd2F3MHF3ZWdkZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pboS5T35lhtPRNGh5n/giphy.gif)" width="450" alt="Coding Fun"/>
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Server Room"/>
 </p>
 
