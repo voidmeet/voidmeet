@@ -16,12 +16,12 @@
 ---
 
 ### 👨‍💻 About Me
-- 💼 Currently working as **DevOps Engineer**
-- ☁️ Skilled in **AWS, GCP, Azure, Hetzner, DigitalOcean**
-- ⚡ Experienced with **Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD**
+- 💼 Currently working as **Cloud DevOps Engineer**
+- ☁️ Skilled in **AWS, GCP, Azure, Hetzner, DigitalOcean, Contabo, Hostinger**
+- ⚡ Experienced with **Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD, GitOps**
 - 🛠️ Passionate about **automation, scaling systems, and cloud-native solutions**
 - 🎯 Goal: **Master AI-driven DevOps + advanced Kubernetes**
-- ✨ Motto: *Automate everything, scale everywhere!*
+- ✨ Motto: **Automate everything, scale everywhere!**
 
 ---
 
@@ -66,6 +66,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
+  <a href="https://meetmyportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="https://github.com/voidmeet"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/meet-bundela"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
