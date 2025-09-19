@@ -10,7 +10,7 @@
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="800" alt="DevOps Pipeline Animation"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVncnVydjF1bTU4NzFoY3E4aGoyMzFkZTQ2YXZuYTI3d2Y3bXg4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bx8tQ1edbvZxGnNMlw/giphy.gif" width="800" alt="DevOps Pipeline Animation"/>
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=voidmeet&show_icons=true&theme=tokyonight" height="165"/>-->
+  <img src="https://github-readme-stats.vercel.app/api?username=voidmeet&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidmeet&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
