@@ -1,20 +1,26 @@
-name: Generate Snake
+name: Deploy README Animation
 
 on:
-  schedule: [{ cron: "0 0 * * *" }]
+  push:
+    branches:
+      - main
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: voidmeet
-          outputs: dist/github-contribution-grid-snake.svg
+      - name: Checkout Repo
+        uses: actions/checkout@v4
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Build README
+        run: echo "🚀 Building your animated README..."  
+
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
