@@ -37,7 +37,7 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW14Mmtmd3RiNHBjNXNuZnlqeGk5MW15bnQyNnJ1eXl0NmU3b3ZjNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ew57HYXAM8716OOtPm/giphy.gif" width="450" alt="Coding Fun"/>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF2cDk0aWM0Zm85Zm1xdHMyb21tZnNyaTY2M2UybGx1dHlienpmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTMxfXzAohYnkiTZlg/giphy.gif" width="450" alt="Coding Fun"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGF2cDk0aWM0Zm85Zm1xdHMyb21tZnNyaTY2M2UybGx1dHlienpmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTMxfXzAohYnkiTZlg/giphy.gif" width="450" alt="reality"/>
   <!--<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="450" alt="Server Room"/>-->
 </p>
 
