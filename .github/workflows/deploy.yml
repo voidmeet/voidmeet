@@ -1,4 +1,4 @@
-name: Deploy README Animation
+name: Deploy Profile Site
 
 on:
   push:
@@ -16,8 +16,10 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v4
 
-      - name: Build README
-        run: echo "🚀 Building your animated README..."  
+      - name: Build dist folder
+        run: |
+          mkdir dist
+          cp -r src/* dist/
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
