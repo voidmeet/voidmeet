@@ -59,7 +59,7 @@
 ### 🚀 How DevOps feels
 
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFzbDRnYWxmN2IzOGp3ZG5mdnBxOW53YWI2ZHdjcmVzNXZsbjRrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KFo3xhsgDt4oizXB6L/giphy.gif" width="700" alt="Infinity Loop"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzN0Y3ZpbzYxOWRwMW80MGVhanM1MWl3anlqZHh1eGU2aG9hd3huOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EmLquI4tup5HElmQZA/giphy.gif" width="700" alt="Infinity Loop"/>
 </p>
 
 ---
