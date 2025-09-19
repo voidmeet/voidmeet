@@ -1,27 +1,27 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Meet Bundela</h1>
-<h3 align="center">🚀 DevOps Engineer | Cloud | Automation | CI/CD | Infrastructure as Code</h3>
+<h3 align="center">🚀 DevOps Engineer | Cloud | CI/CD | Kubernetes | Automation</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+Enthusiast;Docker+%26+Kubernetes+Wizard;Infrastructure+as+Code+Lover;Automation+Fanatic" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00F700&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+%26+Automation+Fanatic;Kubernetes+%26+Docker+Wizard;Infrastructure+as+Code+Enthusiast;Always+Automating+Everything" />
 </p>
 
 ---
 
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://github.com/voidmeet/voidmeet/blob/main/assets/devops.gif" width="800" alt="DevOps Animation"/>
+  <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="800" alt="DevOps Animation"/>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 💼 Currently working as **DevOps Engineer**
-- ☁️ Skilled in **Cloud (AWS, GCP, Azure, Hetzner, DigitalOcean)**
-- ⚡ Pro in **CI/CD pipelines, Docker, Kubernetes, Terraform, Ansible**
-- 🛠️ I love automating **server setups, deployments, and monitoring**
-- 📈 Interested in **scalable architectures & real-time monitoring**
-- 🎯 Goal: **Mastering Kubernetes + AI-driven DevOps**
+- ☁️ Skilled in **AWS, GCP, Azure, Hetzner, DigitalOcean**
+- ⚡ Experienced with **Docker, Kubernetes, Terraform, Ansible, Jenkins, CI/CD**
+- 🛠️ Passionate about **automation, scaling systems, and cloud-native solutions**
+- 🎯 Goal: **Master AI-driven DevOps + advanced Kubernetes**
+- ✨ Motto: *Automate everything, scale everywhere!*
 
 ---
 
@@ -36,7 +36,7 @@
 ### ⚙️ DevOps in Action  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="800" height="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation"/>
 </p>
 
 <p align="center">
@@ -54,10 +54,10 @@
 
 ---
 
-### 🚀 DevOps Workflows
+### 🚀 DevOps Cycle
 
 <p align="center">
-  <img src="https://github.com/voidmeet/voidmeet/blob/main/assets/devops-loop.gif" width="700" alt="DevOps Cycle"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700" alt="DevOps Loop"/>
 </p>
 
 ---
